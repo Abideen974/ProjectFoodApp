@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/signup.jpg");
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    /* padding: 220px 0px 280px; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+    opacity: 0.8;
+}
